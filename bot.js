@@ -20,7 +20,7 @@ client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Desert Bot- Script By : darkxx`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
+      console.log(`ON 1{client.guilds.size} Servers '     Script By : black ' `);
     console.log(`----------------`);
   console.log(`Logged in as 1{client.user.tag}!`);
 client.user.setGame(`1bc |MadeBy|محمد`,"http://twitch.tv/Death Shop")
